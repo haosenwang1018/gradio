@@ -1,5 +1,12 @@
 # @gradio/html
 
+## 0.10.0
+
+### Features
+
+- [#12917](https://github.com/gradio-app/gradio/pull/12917) [`a0fff5c`](https://github.com/gradio-app/gradio/commit/a0fff5cb0e4cc0f8cc3fff7b5fbe18a031c7cc27) - Add push_to_hub method to gr.HTML. Add a gallery to view notable custom HTML components.  Thanks @freddyaboulton!
+- [#12899](https://github.com/gradio-app/gradio/pull/12899) [`820eff0`](https://github.com/gradio-app/gradio/commit/820eff050232f2ce40813e98e3294930e142e1c1) - Add support for gr.HTML as a layout element.  Thanks @aliabid94!
+
 ## 0.9.3
 
 ### Dependency updates
